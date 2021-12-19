@@ -1,7 +1,7 @@
 
 
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bouncey</h2>
-<h4> I'm obsessed with reasearch and devoted to solvong problems</h4>
+<h4 align="center"> I'm obsessed with reasearch and devoted to solvong problems</h4>
 
 
 ## 🙋‍♂️ About Me
@@ -48,7 +48,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/bouncei/github-readme-activity-graph"><img alt="bouncei Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bouncei28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/bouncei/github-readme-activity-graph"><img alt="bouncei Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bouncei&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
