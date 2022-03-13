@@ -1,7 +1,7 @@
 
 
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bouncey</h2>
-<h4 align="center"> I'm obsessed with reasearch and devoted to solvong problems</h4>
+<h4 align="center"> I'm obsessed with research and devoted to solving problems</h4>
 
 
 ## 🙋‍♂️ About Me
