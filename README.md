@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-v2-0-ten.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://bouncei.vercel.app/)**
 
 - 📫 How to reach me **joshuainyang255@gmail.com**
 
