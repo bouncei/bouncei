@@ -5,7 +5,7 @@
 
 
 ## 🙋‍♂️ About Me
-- 👨🏼‍💻 Software Engineer
+- 👨🏼‍💻 Software Engineer | UX Engineer
   
 - 👀 All of my projects are available at **[My Portfolio](https://bouncei.vercel.app/)**
 
