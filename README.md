@@ -27,7 +27,7 @@
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/bouncei"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/bouncei" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bouncei&show_icons=true&locale=en&layout=compact" alt="bouncei" /></p>
-
+</br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bouncei&show_icons=true&locale=en" alt="bouncei" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bouncei&" alt="bouncei" /></p>
