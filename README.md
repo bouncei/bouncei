@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bouncei&label=Profile%20views&color=0e75b6&style=flat" alt="bouncei" /> </p>
 
-- 🔭 I’m currently working on [Fusion AI](https://fusion-ai-iota.vercel.app/)
+- 🔭 I’m currently working on [Fusion AI](https://github.com/bouncei/fusion-ai)
 
 - 🌱 I’m currently learning **React Native & Go**
 
