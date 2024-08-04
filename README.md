@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Fusion AI](https://github.com/bouncei/fusion-ai) & [Yarn](https://www.musicyarns.com)
 
-- 🌱 I’m currently learning **React Native & Go**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [bouncei.vercel.app](bouncei.vercel.app)
 
