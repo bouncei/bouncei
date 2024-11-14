@@ -29,5 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bouncei&show_icons=true&locale=en&layout=compact" alt="bouncei" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bouncei&show_icons=true&locale=en" alt="bouncei" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bouncei&" alt="bouncei" /></p>
