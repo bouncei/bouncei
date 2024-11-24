@@ -29,3 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bouncei&show_icons=true&locale=en&layout=compact" alt="bouncei" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bouncei&show_icons=true&locale=en" alt="bouncei" /></p>
+    <a href="https://github.com/bouncei/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bouncey's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bouncei&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+
