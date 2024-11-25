@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on [Yarn](https://www.musicyarns.com) & [Fusion AI](https://github.com/bouncei/fusion-ai)<br>💼 👨‍💻 All of my projects are available on my [Portfolio]([https://www.musicyarns.com](https://bouncei.vercel.app/) <br>🌱 I’m currently learning GoLang<br>
+🔭 I’m currently working on [Yarn](https://www.musicyarns.com) & [Fusion AI](https://github.com/bouncei/fusion-ai)<br><br>👨‍💻 All of my projects are available on my [Portfolio](https://bouncei.vercel.app/) <br><br>🌱 I’m currently learning GoLang<br>
 
 
 ## 🌐 Socials:
