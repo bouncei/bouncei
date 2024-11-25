@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
-<h3 align="center">I'm obsessed with research and devoted to solving problems</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bouncei&label=Profile%20views&color=0e75b6&style=flat" alt="bouncei" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on [Yarn](https://www.musicyarns.com) & [Fusion AI](https://github.com/bouncei/fusion-ai)<br>💼 👨‍💻 All of my projects are available on my [Portfolio]([https://www.musicyarns.com](https://bouncei.vercel.app/)) <br>🌱 I’m currently learning GoLang<br>
+🔭 I’m currently working on [Yarn](https://www.musicyarns.com) & [Fusion AI](https://github.com/bouncei/fusion-ai)<br>💼 👨‍💻 All of my projects are available on my [Portfolio]([https://www.musicyarns.com](https://bouncei.vercel.app/) <br>🌱 I’m currently learning GoLang<br>
 
 
 ## 🌐 Socials:
