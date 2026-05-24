@@ -1,6 +1,6 @@
 ### Joshua Inyang
 
-Senior software engineer — full-stack & AI/LLM systems.
+Senior Software Engineer — Full-stack & AI/LLM systems.
 
 Currently building multi-model AI workspaces, agent tooling, and observability for LLM apps. Open to senior, staff, and founding-engineer roles.
 
