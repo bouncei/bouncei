@@ -1,21 +1,7 @@
-# Hi, I'm Josh 😉👋
- 
-**Senior Software Engineer** · Full-Stack (Web & Mobile) & AI/LLM Systems · 6+ years
- 
-I build production AI systems — multi-agent orchestration, LLM infrastructure, and full-stack products from zero to launch.
+### Joshua Inyang
 
-![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bouncei&show_icons=true&theme=dark)
- 
+Senior software engineer — full-stack & AI/LLM systems.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bouncey__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-inyang-2753841b7) 
+Currently building multi-model AI workspaces, agent tooling, and observability for LLM apps. Open to senior, staff, and founding-engineer roles.
 
-
-
-
-
-## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bouncei) 
-
-
-Open to contracts, consulting, and full-time roles
+[bouncei.tech](https://bouncei.tech) · [linkedin](https://www.linkedin.com/in/joshua-inyang-2753841b7)
